@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+table {
+  border: 1px solid black;
+  text-align: left;
+  background-color: yellow;
+}
+th, td, tr, table {
+  border: 1px solid black;
+  text-align: left;
+}
